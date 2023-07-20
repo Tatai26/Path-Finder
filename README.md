@@ -10,8 +10,6 @@ Visualize how the algorithm finds the shortest path
 - Breadth-First-Search : Unweighted search
 - Djikstra-Algorithm : Weighted Algorithm to find the path
 
-## Deployed 
-[Path-finder](https://Tatai26.github.io/Path-Finder/)
 
 ## Run app locally
 -> install npm </br>
