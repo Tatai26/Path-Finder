@@ -11,7 +11,7 @@ Visualize how the algorithm finds the shortest path
 - Djikstra-Algorithm : Weighted Algorithm to find the path
 
 ## Deployed 
-[Path-finder](https://yudhishthira1406.github.io/Path-Finder/)
+[Path-finder](https://github.com/Tatai26/Path-Finder.git)
 
 ## Run app locally
 -> install npm </br>
